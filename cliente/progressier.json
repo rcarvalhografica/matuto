@@ -1,10 +1,12 @@
 {
-"dir":"auto","name":"Matuto Delivery",
+"dir":"auto",
+"name":"Matuto Delivery",
+"short_name":"Matuto",
 "background_color":"#fd4c3a",
 "theme_color":"#fd4c3a",
 "display":"standalone",
 "orientation":"portrait",
-"start_url":"https://matutodelivery-81077.bubbleapps.io/?launchedfrom=homescreen",
+"start_url":"https://matutodelivery-81077.bubbleapps.io/",
 "scope":"https://matutodelivery-81077.bubbleapps.io",
 "id":"https://matutodelivery-81077.bubbleapps.io/NAyocZzzEqZ6zhmhD3m3",
 "prefer_related_applications":false,
@@ -15,26 +17,19 @@
 "src":"https://rcarvalhografica.github.io/matuto/cliente/img/maskable_icon_x512.png",
 "sizes":"512x512",
 "type":"image/png",
-"purpose":"any maskable"
+"purpose":"maskable"
 },
 
 {
 "src":"https://rcarvalhografica.github.io/matuto/cliente/img/maskable_icon_x192.png",
 "sizes":"192x192",
 "type":"image/png",
-"purpose":"any maskable"
+"purpose":"maskable"
 },
 
 {
 "src":"https://rcarvalhografica.github.io/matuto/cliente/img/maskable_icon_x96.png",
 "sizes":"96x96",
-"type":"image/png",
-"purpose":"any maskable"
-},
-  
-{
-"src":"https://rcarvalhografica.github.io/matuto/cliente/img/maskable_icon_x512.png",
-"sizes":"512x512",
 "type":"image/png",
 "purpose":"maskable"
 }
