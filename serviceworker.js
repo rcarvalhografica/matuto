@@ -10,3 +10,12 @@ workbox.routing.registerRoute(
     new workbox.strategies.NetworkFirst()
 );
 
+navigator.serviceWorker.ready.then((swReg) => {
+   // Do we already have a push message subscription?
+   swReg.pushManager.getSubscription()
+   .then((subscription) => {
+       if(!subscription){
+          console.log('No Subscription endpoint present')
+       }
+   })
+})
