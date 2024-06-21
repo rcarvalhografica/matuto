@@ -6,7 +6,7 @@
 "theme_color":"#fd4c3a",
 "display":"standalone",
 "orientation":"portrait",
-"start_url":"https://matutodelivery-81077.bubbleapps.io/",
+"start_url":"https://matutodelivery-81077.bubbleapps.io/?utm_source=homescreen&utm_medium=shortcut",
 "scope":"https://matutodelivery-81077.bubbleapps.io",
 "id":"https://matutodelivery-81077.bubbleapps.io/NAyocZzzEqZ6zhmhD3m3",
 "prefer_related_applications":false,
