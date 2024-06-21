@@ -2,6 +2,17 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
+<link rel="manifest" href="https://rcarvalhografica.github.io/matuto/cliente/progressier.json"/>
+
+<script>
+if ('serviceWorker' in navigator) {
+navigator.serviceWorker.register("/serviceworker.js")
+.then(registration => {
+console.log("Registerd!");
+}).catch(console.error);
+}
+</script>
+
 <title>PWA</title>
 </head>
 <body>
