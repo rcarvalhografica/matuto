@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
-<link rel="manifest" href="/progressier.json"/>
+<link rel="manifest" href="/matuto/progressier.json"/>
 
 <script>
 if ('serviceWorker' in navigator) {
-navigator.serviceWorker.register("/serviceworker.js")
+navigator.serviceWorker.register("/matuto/serviceworker.js")
 .then(registration => {
 console.log("Registerd!");
 }).catch(console.error);
