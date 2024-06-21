@@ -1,14 +1,14 @@
 {
 "dir":"auto",
-"name":"Matuto Delivery",
-"short_name":"Matuto",
+"name":"PWA",
+"short_name":"PWA",
 "background_color":"#fd4c3a",
 "theme_color":"#fd4c3a",
 "display":"standalone",
 "orientation":"portrait",
-"start_url":"https://matutodelivery-81077.bubbleapps.io/?utm_source=homescreen&utm_medium=shortcut",
-"scope":"https://matutodelivery-81077.bubbleapps.io",
-"id":"https://matutodelivery-81077.bubbleapps.io/NAyocZzzEqZ6zhmhD3m3",
+"start_url":"https://rcarvalhografica.github.io/matuto/?utm_source=homescreen&utm_medium=shortcut",
+"scope":"https://rcarvalhografica.github.io/matuto",
+"id":"https://rcarvalhografica.github.io/matuto/NAyocZzzEeZ6eehD3m3",
 "prefer_related_applications":false,
 "related_applications":[],
 
@@ -80,12 +80,12 @@
 "protocol_handlers":[
 {
 "protocol":"web+pwa",
-"url":"https://matutodelivery-81077.bubbleapps.io/?launchedfrom=homescreen&pwaprotocolredirect=%s"
+"url":"https://rcarvalhografica.github.io/matuto/?launchedfrom=homescreen&pwaprotocolredirect=%s"
 },
 
 {
 "protocol":"web+matutodelivery",
-"url":"https://matutodelivery-81077.bubbleapps.io/?launchedfrom=homescreen&pwaprotocolredirect=%s"
+"url":"https://rcarvalhografica.github.io/matuto/?launchedfrom=homescreen&pwaprotocolredirect=%s"
 }
 ]
 }
