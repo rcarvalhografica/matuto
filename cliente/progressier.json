@@ -12,6 +12,26 @@
 "prefer_related_applications":false,
 "related_applications":[],
 
+  
+"screenshots": [
+        {
+            "src": "https://abs.twimg.com/responsive-web/client-web/twitter-lite-data-saver-marketing.6805986a.png",
+            "sizes": "586x1041",
+            "type": "image/png"
+        },
+        {
+            "src": "https://abs.twimg.com/responsive-web/client-web/twitter-lite-explore-marketing.fd45b02a.png",
+            "sizes": "586x1041",
+            "type": "image/png"
+        },
+        {
+            "src": "https://abs.twimg.com/responsive-web/client-web/twitter-lite-timeline-marketing.befcdb4a.png",
+            "sizes": "586x1041",
+            "type": "image/png"
+        }
+    ],
+
+  
 "icons":[
 {
 "src":"https://rcarvalhografica.github.io/matuto/cliente/img/maskable_icon_x512.png",
